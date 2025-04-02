@@ -1,0 +1,8 @@
+.DS_Store
+assets/
+build/
+dist/
+Serial\ Chiller.spec
+*.spec
+test.spec
+win/

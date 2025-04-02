@@ -1,0 +1,5 @@
+pyinstaller --name "Serial Chiller" --onefile --windowed --icon=assets/logo.png test.py
+
+o
+
+python -m PyInstaller --name "Serial Chiller" --onefile --windowed --icon=assets/logo.png test.py
